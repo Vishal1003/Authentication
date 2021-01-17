@@ -1,4 +1,4 @@
-# Authentication
+# User Authentication (Node js, MonngoDb) using passport local strategy.
 User Authentication in Node js using passport local strategy. 
 
 ## Setup
